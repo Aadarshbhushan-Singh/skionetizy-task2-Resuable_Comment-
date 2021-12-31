@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/skionetizy-task2-Resuable_Comment-/static/css/main.0aa4b09c.css",
+    "main.js": "/skionetizy-task2-Resuable_Comment-/static/js/main.c444e285.js",
+    "static/media/image.jpg": "/skionetizy-task2-Resuable_Comment-/static/media/image.74a3cba488a3d57109e3.jpg",
+    "index.html": "/skionetizy-task2-Resuable_Comment-/index.html",
+    "main.0aa4b09c.css.map": "/skionetizy-task2-Resuable_Comment-/static/css/main.0aa4b09c.css.map",
+    "main.c444e285.js.map": "/skionetizy-task2-Resuable_Comment-/static/js/main.c444e285.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aa4b09c.css",
+    "static/js/main.c444e285.js"
+  ]
+}
