@@ -1,0 +1,31 @@
+.Parent{
+    background-color: rgba(0, 1, 59, 0.877);
+    display: grid;
+    color: white;
+    padding: 2%;
+}
+
+#pimage{
+    width: 10%;
+    height: 10%;
+    border-radius: 50%;
+}
+.child{
+    display: flex;
+    margin-bottom: 5%;
+}
+
+#post_details{
+    margin: 1%;
+}
+
+#post_time{
+    font-size: 60%;
+    color: grey;
+}
+#post{
+    font-weight: bold;
+}
+#name{
+    color: rgba(247, 245, 245, 0.945);
+}
